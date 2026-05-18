@@ -12,13 +12,4 @@
 
 ![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosatencia27&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosatencia27&layout=donut&langs_count=8&custom_title=Lenguajes%20m%C3%A1s%20usados&size_weight=0.5&count_weight=0.5&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=carlosatencia27&theme=radical&hide_border=true)
-
-## 📊 Mis estadísticas en GitHub
-
-**Estadísticas dinámicas temporalmente no disponibles.**  
-Puedes ver mi actividad en: https://github.com/carlosatencia27
-
 [Top languages (temporal)](https://github.com/carlosatencia27?tab=repositories)
