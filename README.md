@@ -19,3 +19,8 @@ Automatización de bots de trading con arquitectura modular y gestión de riesgo
 
 ## 📊 Mis estadísticas en GitHub
 
+![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosatencia27&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosatencia27&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=carlosatencia27&theme=radical&hide_border=true)
