@@ -12,9 +12,8 @@
 
 ![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosatencia27&show_icons=true&theme=radical)
 
-## 🌐 Lenguajes más usados
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosatencia27&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=carlosatencia27&theme=radical&hide_border=true)
