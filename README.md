@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 ¡Hola, soy Carlos Daniel Atencia García!
+🎓 Estudiante de Ingeniería de Software con especialización en Ciberseguridad
 
-<!--
-**carlosatencia27/carlosatencia27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Arquitecto de sistemas de análisis deportivo y automatización de flujos de trabajo
 
-Here are some ideas to get you started:
+📊 Apasionado por la analítica transparente y reproducible, con enfoque en control de riesgos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Fundador de proyectos digitales orientados a educación, SaaS y optimización de procesos
+
+💡 Me interesa crear soluciones modulares, auditables y escalables para problemas reales
+
+📈 Actualmente estoy trabajando en:
+
+Optimización de sistemas de sports analytics
+
+Desarrollo de un SaaS LMS con login, suscripciones, dashboard y analíticas
+
+Automatización de bots de trading con arquitectura modular y gestión de riesgos
+
+## 📊 Mis estadísticas en GitHub
+
