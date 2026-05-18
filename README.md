@@ -10,6 +10,7 @@
 
 ## 📊 Mis estadísticas en GitHub
 
-![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosatencia27&show_icons=true&theme=radical)
 
 [Top languages (temporal)](https://github.com/carlosatencia27?tab=repositories)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=carlosatencia27&theme=radical&hide_border=true)
