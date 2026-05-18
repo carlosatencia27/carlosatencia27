@@ -17,3 +17,5 @@
 
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=carlosatencia27&theme=radical&hide_border=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosatencia27&layout=donut&langs_count=8&hide=html&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
