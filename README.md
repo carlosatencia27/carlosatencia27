@@ -1,10 +1,10 @@
 # 👋 ¡Hola, soy Carlos Daniel Atencia García!
 
-- 🎓 Estudiante de **Ingeniería de Software** con especialización en **Ciberseguridad**  
-- 🛠️ Arquitecto de sistemas de **sports analytics** y **automatización de flujos de trabajo**  
-- 📊 Apasionado por la **analítica transparente y reproducible**, con enfoque en control de riesgos  
-- 🚀 Emprendedor digital, desarrollando proyectos SaaS con **login, suscripciones, dashboard y analíticas**  
-- 💡 Me interesa crear soluciones **modulares, auditables y escalables** para problemas reales  
+- 🎓 Estudiante de **Ingeniería de Software** con especialización en **Ciberseguridad**
+- 🛠️ Arquitecto de sistemas de **sports analytics** y automatización de flujos de trabajo
+- 📊 Apasionado por la **analítica transparente y reproducible**, con enfoque en control de riesgos
+- 🚀 Emprendedor digital, desarrollando proyectos SaaS con **login, suscripciones, dashboard y analíticas**
+- 💡 Me interesa crear soluciones **modulares, auditables y escalables** para problemas reales
 
 ---
 
@@ -12,10 +12,6 @@
 
 ![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosatencia27&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosatencia27&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosatencia27&layout=donut&langs_count=8&custom_title=Lenguajes%20m%C3%A1s%20usados&size_weight=0.5&count_weight=0.5&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=carlosatencia27&theme=radical&hide_border=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosatencia27&layout=donut&langs_count=8&hide=html&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
